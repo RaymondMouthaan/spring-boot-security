@@ -1,4 +1,4 @@
-## Spring Boot Security Coarse by Romanian Coder
+## Spring Boot Security Course by Romanian Coder
 
 - [[Spring Boot Security] #01 Course Overview](https://www.youtube.com/watch?v=EPd-u8ibXBY&t=6s)
 - [[Spring Boot Security] #02 Authentication & Authorization](https://www.youtube.com/watch?v=4XFmMHYg_Ok)
