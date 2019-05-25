@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="unsecure" />
         <module name="forms" />
+        <module name="jwt" />
         <module name="httpbasic" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="forms" target="1.8" />
       <module name="httpbasic" target="1.8" />
+      <module name="jwt" target="1.8" />
       <module name="unsecure" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -21,6 +23,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="forms" options="-parameters" />
       <module name="httpbasic" options="-parameters" />
+      <module name="jwt" options="-parameters" />
       <module name="unsecure" options="-parameters" />
     </option>
   </component>

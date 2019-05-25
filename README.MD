@@ -26,3 +26,5 @@
 - [[Spring Boot Security] #24 Implement Remember Me - Forms Authentication](https://www.youtube.com/watch?v=26Td9t_NdNw)
 - [[Spring Boot Security] #25 Customize Form Control Names - Forms Authentication](https://www.youtube.com/watch?v=26Td9t_NdNw)
 - [[Spring Boot Security] #26 - Spring Security Thymeleaf Integration](https://www.youtube.com/watch?v=pOMns4h5fQg)
+- [[Spring Boot Security] #27 JWT - When Should You Use JWT Security?](https://www.youtube.com/watch?v=i7Iv6JpuBRs)
+- [[Spring Boot Security] #28 JWT - Sample Application And JWT Dependencies](https://www.youtube.com/watch?v=QDyurR05hwk)

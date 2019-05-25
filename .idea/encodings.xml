@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/forms" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/httpbasic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jwt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/unsecure" charset="UTF-8" />
   </component>
 </project>
