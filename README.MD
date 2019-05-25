@@ -24,4 +24,5 @@
 - [[Spring Boot Security] #22 Integrate Spring Security With Custom Login Form/Page](https://www.youtube.com/watch?v=Z6ZG6BIgW-Q)
 - [[Spring Boot Security] #23 Implement Logout Action - Forms Authentication](https://www.youtube.com/watch?v=jgn-D271qWA)
 - [[Spring Boot Security] #24 Implement Remember Me - Forms Authentication](https://www.youtube.com/watch?v=26Td9t_NdNw)
+- [[Spring Boot Security] #25 Customize Form Control Names - Forms Authentication](https://www.youtube.com/watch?v=26Td9t_NdNw)
 - 
