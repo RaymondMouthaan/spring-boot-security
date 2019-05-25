@@ -20,3 +20,4 @@
 - [[Spring Boot Security] #18 Database Authentication - User Repository](https://www.youtube.com/watch?v=9njh71HmE5Y)
 - [[Spring Boot Security] #19 Database Authentication - Implement User Details Service](https://www.youtube.com/watch?v=TDuVY8PFU3Q)
 - [[Spring Boot Security] #20 Database Authentication - Configure Database Provider](https://www.youtube.com/watch?v=wNN6S_HsD4o)
+- [[Spring Boot Security] #21 Create Custom Login Form/Page - Forms Authentication](https://www.youtube.com/watch?v=roiPQGk37JQ)
