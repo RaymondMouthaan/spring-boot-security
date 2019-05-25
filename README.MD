@@ -25,4 +25,4 @@
 - [[Spring Boot Security] #23 Implement Logout Action - Forms Authentication](https://www.youtube.com/watch?v=jgn-D271qWA)
 - [[Spring Boot Security] #24 Implement Remember Me - Forms Authentication](https://www.youtube.com/watch?v=26Td9t_NdNw)
 - [[Spring Boot Security] #25 Customize Form Control Names - Forms Authentication](https://www.youtube.com/watch?v=26Td9t_NdNw)
-- 
+- [[Spring Boot Security] #26 - Spring Security Thymeleaf Integration](https://www.youtube.com/watch?v=pOMns4h5fQg)
